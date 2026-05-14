@@ -41,71 +41,46 @@ Goal:
 
 ---
 
-# ⚡ Tech Stack
+# ⚡ Tech Arsenal
 
 <div align="center">
 
-## 💻 Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,tensorflow,pytorch,react,nodejs,fastapi,flask,docker,git,github,vscode,linux&perline=8" />
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,sql" />
+</div>
 
-## 🤖 AI / ML
+<br>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<div align="center">
 
-## 🌐 Development
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,flask,streamlit,docker" />
-
-## 🛠 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,linux" />
+| Domain | Technologies |
+|---|---|
+| 🤖 AI / ML | TensorFlow, PyTorch, Transformers, LangChain |
+| 👁 Computer Vision | OpenCV, CNNs, LSTMs, Image Forensics |
+| 🧠 Generative AI | RAG, LLM Fine-Tuning, AI Agents |
+| 🌐 Development | React, FastAPI, Flask, Streamlit |
+| ⚙️ Tools | Git, Docker, Linux, VS Code, Jupyter |
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+# 🧠 Current Interests
 
-## 🚌 Bus Time Prediction System
+```python
+class Kavya:
+    def __init__(self):
+        self.focus = [
+            "Generative AI",
+            "LLMs & RAG",
+            "Computer Vision",
+            "Deep Learning",
+            "AI Engineering"
+        ]
 
-> Machine Learning based system for analyzing discrepancies between scheduled and actual bus timings.
-
-* RandomForestRegressor & ExtraTreesRegressor
-* Streamlit deployment
-* Real-world transport dataset
-* Data preprocessing & visualization
-
----
-
-## 🧠 Human Action Recognition
-
-> Deep Learning project using LSTM & LRCN architecture.
-
-* Video sequence analysis
-* Temporal feature extraction
-* Action classification
-
----
-
-## 🤖 Fine-Tuned RAG Chatbot
-
-> Retrieval-Augmented Generation chatbot with streaming responses.
-
-* LangChain
-* Vector Databases
-* LLM Integration
-* Streamlit UI
-
----
-
-## 🔍 AI vs Real Image Detector
-
-> Computer Vision system to detect AI-generated images.
-
-* CNN-based architecture
-* Image forensics
-* Deepfake & synthetic image analysis
+    def life_goal(self):
+        return "Build intelligent systems that solve real-world problems 🚀"
+```
 
 ---
 
