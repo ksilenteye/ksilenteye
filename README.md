@@ -6,11 +6,11 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+Systems;LLMs+%7C+RAG+%7C+Computer+Vision;Always+Learning+Something+New" />
 
-<br>
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ksilenteye&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ksilenteye&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksilenteye&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksilenteye&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
