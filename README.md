@@ -1,14 +1,16 @@
-# 🚀 Hi, I'm Kavya
-
-### AI/ML Engineer • Generative AI Enthusiast • Full Stack AI Builder
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Engineer;Generative+AI+%7C+LLMs+%7C+Deep+Learning;Building+Intelligent+Systems+%F0%9F%9A%80;Always+Learning+Something+New" />
+# 👨‍💻 Kavya
+
+### AI/ML Engineer • Generative AI • Deep Learning
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+Systems;LLMs+%7C+RAG+%7C+Computer+Vision;Always+Learning+Something+New" />
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ksilenteye&theme=algolia&no-frame=true&row=1&column=6" />
+<img src="https://github-readme-stats.vercel.app/api?username=ksilenteye&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksilenteye&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
 
 </div>
 
@@ -36,7 +38,7 @@ Currently Learning:
   - MLOps
 
 Goal:
-  Build real-world intelligent systems from scratch 🚀
+  Trying to improve my skills through real projects and continuous learning.
 ```
 
 ---
