@@ -6,42 +6,21 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+Systems;LLMs+%7C+RAG+%7C+Computer+Vision;Always+Learning+Something+New" />
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ksilenteye&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksilenteye&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
+<!-- <div align="center"> -->
 ---
+
+<div align="Left">
 
 # 🧠 About Me
 
-```yaml
-Name: Kavya
-Role: AI/ML Engineer
-Education: B.Tech CSE
-Focus:
-  - Machine Learning
-  - Deep Learning
-  - Generative AI
-  - LLMs & RAG Systems
-  - Computer Vision
-  - NLP
-  - Full Stack AI Applications
+```txt
+- B.Tech CSE student interested in AI/ML, Deep Learning, and Generative AI
+- Exploring LLMs, RAG systems, Computer Vision, and AI engineering
+- Learning by building real-world projects and experimenting with new technologies
+- Interested in both research-oriented and practical AI applications
 
-Currently Learning:
-  - Advanced LLM Architectures
-  - AI Agents
-  - Scalable AI Systems
-  - MLOps
-
-Goal:
-  Trying to improve my skills through real projects and continuous learning.
 ```
 
----
 
 # ⚡ Tech Arsenal
 
@@ -67,32 +46,15 @@ Goal:
 
 ---
 
-# 🧠 Current Interests
-
-```python
-class Kavya:
-    def __init__(self):
-        self.focus = [
-            "Generative AI",
-            "LLMs & RAG",
-            "Computer Vision",
-            "Deep Learning",
-            "AI Engineering"
-        ]
-
-    def life_goal(self):
-        return "Build intelligent systems that solve real-world problems 🚀"
-```
-
 ---
 
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ksilenteye&show_icons=true&theme=tokyonight&hide_border=true"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ksilenteye&show_icons=true&theme=tokyonight&hide_border=true"/> -->
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksilenteye&layout=compact&theme=tokyonight&hide_border=true"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksilenteye&layout=compact&theme=tokyonight&hide_border=true"/> -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ksilenteye&theme=tokyonight&hide_border=true"/>
 
@@ -102,13 +64,15 @@ class Kavya:
 
 # 📈 Contribution Graph
 
-<div align="center">
+<!-- <div align="center"> -->
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ksilenteye&theme=tokyo-night&hide_border=true" width="95%"/>
 
 </div>
 
 ---
+---
+<div align="Left">
 
 # 🧩 Current Focus
 
